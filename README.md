@@ -3,13 +3,13 @@
 Step 1:
 Clone the GitHub repository using :
 ```bash
-    git clone https://github.com/simran-maurya/Panel.git
+    git clone https://github.com/simranmaurya/Panel-Python.git
 ```
 
 Step 2:
 Navigate to the repository using cd command :
 ```bash
-    cd Panel
+    cd Panel-Python
 ```
 
 Step 3:
@@ -39,7 +39,7 @@ Install all dependencies from 'requirements.txt' :
 Step 6:
 Run the following command :
 ```bash
-    panel serve --autoreload --show Task1/pfirst.py
+    panel serve --autoreload --show Task1/pfirst.py Task2/psecond.py
 ```
 
 ![Screenshot 2023-03-22 104055](https://user-images.githubusercontent.com/101667353/226905574-12cf22b3-1592-4a3a-9b12-3ac3164d08d7.png)
